@@ -1,16 +1,52 @@
-## Hi there 👋
+# Victor Fongaro
 
-<!--
-**victorfongaro/victorfongaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science @ UTFPR
+🔬 Research focused on Artificial Intelligence and statistical modeling
+🚀 Building real-world systems with emphasis on Computer Vision and intelligent applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+
+* Artificial Intelligence (theory + applied systems)
+* Computer Vision
+* Intelligent systems with real-world impact
+* Foundations for autonomous systems
+
+## 🌐 Connect
+
+* LinkedIn: https://linkedin.com/in/seuuser
+* Email: [victor.fongaro2008@gmail.com](mailto:victor.fongaro2008@gmail.com)
+
+## 💻 Tech Stack
+
+* Python (AI, Data, Computer Vision)
+* C/C++ (Performance and systems-level thinking)
+* Java (applications and academic projects)
+* SQL (data handling and persistence)
+
+## 🚀 Projects
+
+### 🔹 HardXP
+
+Interactive web platform for teaching hardware fundamentals
+
+* Gamified learning (quizzes, ranking, challenges)
+* Focus on accessibility and engagement
+* Future: forums, partnerships and structured courses
+
+### 🔹 AI & Research (in progress)
+
+* Studies and implementation of AI models
+* Statistical modeling applied to real problems
+* First academic article under development
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victofongaro\&show_icons=true\&theme=dark)
+
+## 🎯 Goals
+
+* Publish solid research in AI
+* Build impactful intelligent systems
+* Work on real-world applications (vision, automation, autonomy)
