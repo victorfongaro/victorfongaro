@@ -2,11 +2,11 @@
 
 ## 💫 About Me
 
-🎓 Computer Science @ UTFPR
-🔬 Research focused on Artificial Intelligence and statistical modeling
+🎓 Student of Computer Science @ UTFPR
+🔬 Junior Researcher focused on Artificial Intelligence and statistical modeling
 🚀 Building real-world systems with emphasis on Computer Vision and intelligent applications
 
-## 🧠 Current Focus
+## 🧠 Interests
 
 * Artificial Intelligence (theory + applied systems)
 * Computer Vision
@@ -20,10 +20,10 @@
 
 ## 💻 Tech Stack
 
-* Python (AI, Data, Computer Vision)
-* C/C++ (Performance and systems-level thinking)
-* Java (applications and academic projects)
-* SQL (data handling and persistence)
+* Python 
+* C/C++ 
+* Java 
+* SQL 
 
 ## 🚀 Projects
 
