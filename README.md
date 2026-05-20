@@ -2,10 +2,9 @@
 
 ## 💫 About Me
 
-🎓 Student of Computer Science @ UTFPR - Medianeira
-
-🔬 Junior Researcher focused on Artificial Intelligence and statistical modeling
-🚀 Building real-world systems with emphasis on Computer Vision and intelligent applications
+- 🎓 Student of Computer Science @ UTFPR - Medianeira
+- 🔬 Junior Researcher focused on Artificial Intelligence and statistical modeling
+- 🚀 Building real-world systems with emphasis on Computer Vision and intelligent applications
 
 ## 🧠 Interests
 
