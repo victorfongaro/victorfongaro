@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-🎓 Student of Computer Science @ UTFPR
+🎓 Student of Computer Science @ UTFPR - Medianeira
 🔬 Junior Researcher focused on Artificial Intelligence and statistical modeling
 🚀 Building real-world systems with emphasis on Computer Vision and intelligent applications
 
@@ -15,7 +15,7 @@
 
 ## 🌐 Connect
 
-* LinkedIn: https://linkedin.com/in/seuuser
+* LinkedIn: https://linkedin.com/in/victorfongaro
 * Email: [victor.fongaro2008@gmail.com](mailto:victor.fongaro2008@gmail.com)
 
 ## 💻 Tech Stack
@@ -41,12 +41,10 @@ Interactive web platform for teaching hardware fundamentals
 * Statistical modeling applied to real problems
 * First academic article under development
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victofongaro\&show_icons=true\&theme=dark)
-
 ## 🎯 Goals
 
 * Publish solid research in AI
 * Build impactful intelligent systems
 * Work on real-world applications (vision, automation, autonomy)
+
+* 
