@@ -1,50 +1,16 @@
-# Victor Fongaro
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=250&section=header&text=VICTOR_GABRIEL.sh&fontSize=50&fontColor=00FF00&animation=twinkling&desc=Sistemas%20Embarcados%20%7C%20Edge%20AI%20%7C%20Visão%20Computacional&descAlignY=70&descAlign=50" />
+</div>
 
-## 💫 About Me
+```text
+> SYSTEM BOOT SEQUENCE INITIATED...
+> LOADING KERNEL... OK.
+> MOUNTING HARDWARE INTERFACES... [ESP32-S3 / ORANGE_PI_4_PRO_4GB] OK.
+> INITIALIZING EDGE AI PROTOCOLS... OK.
+> ROOT ACCESS GRANTED. WELCOME.
 
-- 🎓 Student of Computer Science @ UTFPR - Medianeira
-- 🔬 Junior Researcher focused on Artificial Intelligence and statistical modeling
-- 🚀 Building real-world systems with emphasis on Computer Vision and intelligent applications
+🛰️ whoami
 
-## 🧠 Interests
+Sou estudante de Ciência da Computação na UTFPR, focado em transformar desafios e código em sistemas inteligentes. Divido a minha capacidade de processamento entre a universidade, o estágio no Sicredi, e a gestão como Diretor Jurídico-Financeiro da ADA Empresa Júnior.
 
-* Artificial Intelligence (theory + applied systems)
-* Computer Vision
-* Intelligent systems with real-world impact
-* Foundations for autonomous systems
-
-## 🌐 Connect
-
-* LinkedIn: https://linkedin.com/in/victorfongaro
-* Email: [victor.fongaro2008@gmail.com](mailto:victor.fongaro2008@gmail.com)
-
-## 💻 Tech Stack
-
-* Python 
-* C/C++ 
-* Java 
-* SQL 
-
-## 🚀 Projects
-
-### 🔹 HardXP
-
-Interactive web platform for teaching hardware fundamentals
-
-* Gamified learning (quizzes, ranking, challenges)
-* Focus on accessibility and engagement
-* Future: forums, partnerships and structured courses
-
-### 🔹 AI & Research (in progress)
-
-* Studies and implementation of AI models
-* Statistical modeling applied to real problems
-* First academic article under development
-
-## 🎯 Goals
-
-* Publish solid research in AI
-* Build impactful intelligent systems
-* Work on real-world applications (vision, automation, autonomy)
-
-* 
+Quando não estou adquirindo habilidades na área ou codando, provavelmente estou a jogar uma partida de xadrez ou a ouvir Froid e BK enquanto faço coisas novas. Como Google Gemini Student Ambassador, procuro também partilhar o impacto da IA com a comunidade.
