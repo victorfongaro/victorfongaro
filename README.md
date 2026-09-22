@@ -20,28 +20,36 @@ Quando não estou adquirindo habilidades na área ou codando, provavelmente esto
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Sicredi" src="https://job-board-saude.nyc3.digitaloceanspaces.com/public/company-logos/654.png"/>](https://www.sicredi.com.br/home/)
+<a href="https://www.sicredi.com.br/home/">
+  <img align="left" height="94px" width="94px" alt="Sicredi" src="https://job-board-saude.nyc3.digitaloceanspaces.com/public/company-logos/654.png"/>
+</a>
 
-**Estagiário** \
-[**Sicredi Vanguarda**](https://www.sicredi.com.br/home/) • Part-time \
-Linguagens & Tecnologias: `Python`, `HTML`\
-Data: 09/26 - atual
+**Estagiário** <br/>
+[**Sicredi Vanguarda**](https://www.sicredi.com.br/home/) • Part-time <br/>
+Linguagens & Tecnologias: `Python`, `HTML` <br/>
+Data: 09/2026 - atual
+
+<br clear="left"/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Ada" src="[https://job-board-saude.nyc3.digitaloceanspaces.com/public/company-logos/654.png](https://scontent-gru2-2.cdninstagram.com/v/t51.75761-19/490847003_17850819789442320_8696975207164766288_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MTEuQzMifQ%3D%3D&_nc_ohc=7xLT_q3FcegQ7kNvwGItUNY&_nc_oc=Adqz91WshDR-ZaZpxtl9oG0IPqpqsCy2MhPkCDoYrTmA1uOoC34dAdymzd7jGAmhc74&_nc_zt=24&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_gid=CNFHWp_gu9U1OdI0mC8ikQ&_nc_ss=7b689&oh=00_AQLDOa7BBa2hlosmWEHnsMkSiI_zEdbTjJRLAEmMGjjlng&oe=6AB79868)"/>](https://adaej.com.br/)
+<a href="https://adaej.com.br/">
+  <img align="left" height="94px" width="94px" alt="Ada EJ" src="https://scontent-gru2-2.cdninstagram.com/v/t51.75761-19/490847003_17850819789442320_8696975207164766288_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MTEuQzMifQ%3D%3D&_nc_ohc=7xLT_q3FcegQ7kNvwGItUNY&_nc_oc=Adqz91WshDR-ZaZpxtl9oG0IPqpqsCy2MhPkCDoYrTmA1uOoC34dAdymzd7jGAmhc74&_nc_zt=24&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_gid=CNFHWp_gu9U1OdI0mC8ikQ&_nc_ss=7b689&oh=00_AQLDOa7BBa2hlosmWEHnsMkSiI_zEdbTjJRLAEmMGjjlng&oe=6AB79868"/>
+</a>
 
-**Diretor Jurídico-Financeiro** \
-[**ADA EJ**](https://adaej.com.br/) • Part-time \
-Data: 04/26 - atual
+**Diretor Jurídico-Financeiro** <br/>
+[**ADA EJ**](https://adaej.com.br/) • Part-time <br/>
+Data: 04/2026 - atual
+
+<br clear="left"/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/C4E0BAQGP85dIO52UEw/company-logo_200_200/company-logo_200_200/0/1631317236615?e=2147483647&v=beta&t=KoLzJC3TWrZmK3otD3q-j88IaJkK8xdY0HZj3ngp4cU"/>]()
+<a href="https://victorfongaro.github.io/victorfongaro.dev/projetos/projeto2.html">
+  <img align="left" height="94px" width="94px" alt="IFutebas" src="https://media.licdn.com/dms/image/v2/C4E0BAQGP85dIO52UEw/company-logo_200_200/company-logo_200_200/0/1631317236615?e=2147483647&v=beta&t=KoLzJC3TWrZmK3otD3q-j88IaJkK8xdY0HZj3ngp4cU"/>
+</a>
 
-**Pesquisador Júnior - Bolsista CNPq - Iniciação Científica** \
-[**IFutebas**](https://victorfongaro.github.io/victorfongaro.dev/projetos/projeto2.html) • Contract \
-Data: 08/23 - 08/23
-<br/>
+**Pesquisador Júnior - Bolsista CNPq (Iniciação Científica)** <br/>
+[**IFutebas**](https://victorfongaro.github.io/victorfongaro.dev/projetos/projeto2.html) • Contract <br/>
+Data: 08/2023 - 08/2023
 
-<br/>
-
+<br clear="left"/>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
